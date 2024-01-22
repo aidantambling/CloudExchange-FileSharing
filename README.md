@@ -61,7 +61,7 @@ Additional configuration settings can be added as needed.
 
 ## Acknowledgements
 This project was developed by Aidan Tambling as part of Internet Network Technologies at the University of Florida.
-Further documentation can be examined in this RFC document: [Remote Directory Protocol - RFC](tambling_majumder_report.pdf)
+Further documentation can be examined in this RFC document: [Remote Directory Protocol - RFC](RFC.pdf)
 
 
 ## Contact
